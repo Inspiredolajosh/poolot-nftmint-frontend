@@ -1,11 +1,10 @@
 
-# Hardhat-Tailwind-React Ethers Starter Kit
-Speedily develope your decentralized application with this starter kit for free!
+# Poolot Nftmint frontend
 
 Follow the steps below to download, install, and run this project.
 
 ## Dependencies
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
+prerequisite.
 - NPM: https://nodejs.org
 - Hardhat: https://hardhat.org/
 - EthersJs: https://ethers.org/
@@ -13,7 +12,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/Daltonic/tailwind_ethers_starter_kit <PROJECT NAME>`
+`git clone https://github.com/Inspiredolajosh/poolot-nftmint-frontend.git`
 
 ## Step 2. Install dependencies
 ```sh
